@@ -83,37 +83,37 @@
 
         <div class="brands">
             <div class="brand">
-                <img src="bmw.png" alt="BMW">
+                <img src="[bmw.png](https://car-brand-names.com/bmw-logo/)" alt="BMW">
                 <h3>BMW</h3>
                 <p>Alman mühendisliğinin gücünü temsil eder. Performans, prestij ve sürüş keyfiyle öne çıkar. Her modeli, sürücüsüne dinamizm ve zarafet sunar.</p>
             </div>
 
             <div class="brand">
-                <img src="mercedes.png" alt="Mercedes-Benz">
+                <img src="[mercedes.png](https://yandex.com.tr/gorsel/search?text=Mercedes%20logo)" alt="Mercedes-Benz">
                 <h3>Mercedes-Benz</h3>
                 <p>Lüks, zarafet ve güvenliğin birleşimi. Yüzyılı aşkın tecrübesiyle otomotiv dünyasında kalite standardını belirler.</p>
             </div>
 
             <div class="brand">
-                <img src="lambo.png" alt="Lamborghini">
+                <img src="[lambo.png](https://fabrikbrands.com/branding-matters/logofile/lamborghini-logo-history-lamborghini-symbol-meaning/)" alt="Lamborghini">
                 <h3>Lamborghini</h3>
                 <p>İtalyan tutkusunun ve hızın sembolü. Her modeli, agresif tasarımı ve üstün performansıyla adrenalin dolu bir deneyim sunar.</p>
             </div>
 
             <div class="brand">
-                <img src="honda.png" alt="Honda">
+                <img src="[honda.png](https://tr.pinterest.com/pin/1097752477917600240/)" alt="Honda">
                 <h3>Honda</h3>
                 <p>Dayanıklılık ve güvenilirlik denince akla gelen marka. Hem otomobil hem motosiklet alanında yenilikçi teknolojileriyle tanınır.</p>
             </div>
 
             <div class="brand">
-                <img src="hyundai.png" alt="Hyundai">
+                <img src="[hyundai.png](https://www.yahoo.com/lifestyle/okay-hyundai-logos-secret-meaning-141240364.html)" alt="Hyundai">
                 <h3>Hyundai</h3>
                 <p>Modern tasarım ve ulaşılabilir kaliteyi bir araya getirir. Akıllı teknolojileriyle geleceğe yön veren markalardan biridir.</p>
             </div>
 
             <div class="brand">
-                <img src="fiat.png" alt="Fiat">
+                <img src="[fiat.png](https://www.trendyol.com/otodemir/fiat-logo-sticker-fiat-punto-fiorino-albea-linea-egea-panda-500-bravo-logo-fiat-logo-orta-boy-p-157186014)" alt="Fiat">
                 <h3>Fiat</h3>
                 <p>Şehir yaşamına uygun, ekonomik ve pratik çözümler sunar. İtalyan tasarımını günlük sürüş konforuyla buluşturur.</p>
             </div>
