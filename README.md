@@ -83,7 +83,7 @@
 
         <div class="brands">
             <div class="brand">
-                <img src="" alt="BMW">
+                <img src="https://commons.wikimedia.org/wiki/File:BMW.svg" alt="BMW">
                 <h3>BMW</h3>
                 <p>Alman mühendisliğinin gücünü temsil eder. Performans, prestij ve sürüş keyfiyle öne çıkar. Her modeli, sürücüsüne dinamizm ve zarafet sunar.</p>
             </div>
