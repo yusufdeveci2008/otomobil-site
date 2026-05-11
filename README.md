@@ -120,6 +120,19 @@
         </div>
     </section>
 
+<p>BMW: Sürücü odaklıdır. "Sürüş Makinesi" lakabıyla bilinir; sportiflik ve performans ön plandadır.
+
+Lamborghini: Gösteriş ve ham güçtür. Traktörle başlayan hikayesi, bugün hızın ve lüksün en uç noktasıdır.
+
+Mercedes-Benz: Prestij ve konforun tanımıdır. Dünyanın ilk otomobilini üreten marka olarak "standartları belirleyen" roldedir.
+
+Honda: Mühendislik dehasıdır. Sorunsuz motorları ve yüksek devir çeviren (VTEC) teknolojisiyle bilinir.
+
+Hyundai: Teknolojik gelişim hızıdır. Tasarım ve elektrikli araç (EV) teknolojisinde son yıllarda devleri yakalamış, hatta geçmiştir.
+
+Fiat: Fonksiyonellik ve İtalyan ruhudur. Şehir içi pratikliği, ulaşılabilirlik ve ikonik tasarımları (500 serisi gibi) temsil eder.</p>
+
+
     <footer>
         <p>Hazırlayan: <strong>Yusuf Deveci</strong></p>
         <p> Öğretmen: <strong>Dr. Ayşegül İçten</strong></p>
